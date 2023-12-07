@@ -15,4 +15,4 @@ This is my home page! My name is Jerome Ayala and I am a student at Cal State Fu
 
 * Lab 6, part 1
 
-    I enjoyed this lab because it was basically a mad lib with sandwiches. We used if statements to make sure the user gave the correct amount of arguments, or ingredients for the sandwich in this case. We also used strings to store information on the bread, protein, and condiment. 
+    I enjoyed this lab because it was basically a mad lib with sandwiches. We asked the user to supply us with three arguments and those were the type of bread, protein, and a condiment. We used if statements to make sure the user gave the correct amount of arguments. Furthermore, we also used strings to store information on the bread, protein, and condiment. 
