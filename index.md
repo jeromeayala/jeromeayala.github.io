@@ -1,7 +1,7 @@
 
 # Jerome Ayala's Portfolio
 
-I am a computer engineering major at CSUF and I plan to graduate in 2027.
+This is my home page! My name is Jerome Ayala and I am a student at Cal State Fullerton and my major is computer engineering. My Github page is https://github.com/jeromeayala
 
 ## Favorite CPSC 120L Labs
 
